@@ -1,0 +1,8 @@
+qiskit==0.44.1
+qiskit[visualization]
+qiskit-aer==0.12.2
+qutip==4.7.3
+cirq==1.2.0
+matplotlib==3.6.3
+numpy==1.23.5
+jupyterlab
